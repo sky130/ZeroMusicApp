@@ -38,6 +38,9 @@
 
 </figure>
 
+## 特别感谢
+[零度音乐前端页面](https://github.com/Sh1n3zZ/ZeroMusicFrontend)
+
 ## 特别说明
 
 > 零度音乐为非开源应用，此仓库只用于介绍
