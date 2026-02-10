@@ -4,7 +4,13 @@
 
 # 零度音乐
 
-**3.0 版本即将发布**
+### 3.0 版本即将发布
+
+## 应用截图
+
+
+<img width="160" alt="" src="./screenshot/8.png"/> <img width="160" alt="" src="./screenshot/9.png"/> <img width="160" alt="" src="./screenshot/10.png"/> <img width="160" alt="" src="./screenshot/11.png"/> <img width="160" alt="" src="./screenshot/12.png"/> <img width="160" alt="" src="./screenshot/1.png"/> <img width="160" alt="" src="./screenshot/2.png"/> <img width="160" alt="" src="./screenshot/3.png"/> <img width="160" alt="" src="./screenshot/4.png"/> <img width="160" alt="" src="./screenshot/5.png"/> <img width="160" alt="" src="./screenshot/6.png"/> <img width="160" alt="" src="./screenshot/7.png"/>
+
 
 尝试成为手表端最好的本地音乐播放器
 
@@ -12,7 +18,9 @@
 
 <img alt="" src="./image/banner.png"/>
 
-新版本带来了什么?
+## 新版本带来了什么?
+
+
 重构软件底层, 新架构, 新体验
   
 重写数据库逻辑, 采用开发框架, 避免老旧架构的潜在问题
@@ -46,24 +54,8 @@
 
 等等
 
-## 应用截图
-
 > [!NOTE]
 > 零度音乐测试硬件平台为 **Galaxy Watch 5 44MM**
-
-<img width="160" alt="" src="./screenshot/8.png"/>
-<img width="160" alt="" src="./screenshot/9.png"/>
-<img width="160" alt="" src="./screenshot/10.png"/>
-<img width="160" alt="" src="./screenshot/11.png"/>
-<img width="160" alt="" src="./screenshot/12.png"/>
-<img width="160" alt="" src="./screenshot/1.png"/>
-<img width="160" alt="" src="./screenshot/2.png"/>
-<img width="160" alt="" src="./screenshot/3.png"/>
-<img width="160" alt="" src="./screenshot/4.png"/>
-<img width="160" alt="" src="./screenshot/5.png"/>
-<img width="160" alt="" src="./screenshot/6.png"/>
-<img width="160" alt="" src="./screenshot/7.png"/>
-
 
 ## 特别感谢
 [零度音乐前端页面](https://github.com/Sh1n3zZ/ZeroMusicFrontend)
