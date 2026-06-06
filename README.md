@@ -4,7 +4,11 @@
 
 # 零度音乐
 
-### 3.0 版本即将发布
+前往 [Github Release](https://github.com/sky130/ZeroMusicApp/releases) 区域下载
+
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/sky130/ZeroMusicApp)](https://github.com/sky130/ZeroMusicApp/releases) 
+
+![GitHub All Releases](https://img.shields.io/github/downloads/sky130/ZeroMusicApp/total) 
 
 ## 应用截图
 
